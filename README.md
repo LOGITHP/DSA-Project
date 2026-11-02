@@ -2,9 +2,9 @@
 ### Data Structures & Algorithms (Units III, IV, and V) — Assignment II
 ### Department of Artificial Intelligence and Data Science | KPR Institute of Engineering and Technology
 
-**Author / Lead Developer:** **LOGITH P** ([@LOGITHP](https://github.com/LOGITHP))  
+ 
 **Allotted Project:** No. 19 — Supply Chain Manager  
-**Team Register Numbers:** `25AD064`, `25AD086`, `25AD111`, `25AD205` (Class: II Year, Section C)  
+**Team Register Numbers:** `25AD064`, `25AD086`, `25AD111`, `25AD205` (Class: II Year, Section B)  
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-LOGITHP-181717.svg?logo=github&logoColor=white)](https://github.com/LOGITHP)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
@@ -433,7 +433,7 @@ The mathematical foundations implemented in [`theory/theoretical_proofs.py`](fil
 - **Institution:** KPR Institute of Engineering and Technology
 - **Department:** Department of Artificial Intelligence and Data Science
 - **Course:** Data Structures and Algorithms (Units III, IV, and V)
-- **Class:** II Year, Section C (B.Tech AI & DS)
+- **Class:** II Year, Section B (B.Tech AI & DS)
 - **Allotted Project:** No. 19 — Supply Chain Manager
 - **Team Size:** 4 Students
 

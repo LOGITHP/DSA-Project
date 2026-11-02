@@ -48,7 +48,7 @@ class SupplyChainApp:
         print("=" * 80)
         print("   KPR INSTITUTE OF ENGINEERING AND TECHNOLOGY | DEPARTMENT OF AI & DS")
         print("      ASSIGNMENT II: PROJECT 19 - SUPPLY CHAIN LOGISTICS MANAGER")
-        print("      Developer: LOGITH P | Team: 25AD064, 25AD086, 25AD111, 25AD205")
+       
         print("=" * 80)
 
     def print_menu(self):
